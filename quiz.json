@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Demon Slayer!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Tanjiro?",
+      "answers": ["Slayer", "Demon", "Master"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Nezuko?",
+      "answers": ["Demon", "Slayer", "Spirit"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Zenitsu?",
+      "answers": ["Slayer", "Demon", "Healer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Nichirin?",
+      "answers": ["Sword", "Shield", "Bow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Inosuke?",
+      "answers": ["Slayer", "Demon", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Muzan?",
+      "answers": ["Demon", "Slayer", "Angel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Kanao?",
+      "answers": ["Slayer", "Demon", "Priest"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Hashira?",
+      "answers": ["Pillar", "Group", "Leader"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Rengoku?",
+      "answers": ["Hashira", "Demon", "Swords"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tamayo?",
+      "answers": ["Demon", "Slayer", "Hunter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Genya?",
+      "answers": ["Slayer", "Demon", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Corps?",
+      "answers": ["Group", "Sword", "Demon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Giyu?",
+      "answers": ["Hashira", "Demon", "Cook"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Kagaya?",
+      "answers": ["Leader", "Demon", "Healer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Shinobu?",
+      "answers": ["Hashira", "Demon", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Urokodaki?",
+      "answers": ["Master", "Demon", "Healer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sabito?",
+      "answers": ["Ghost", "Demon", "Mage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Yushiro?",
+      "answers": ["Demon", "Slayer", "Cook"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Rui?",
+      "answers": ["Demon", "Slayer", "Hunter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Sakonji?",
+      "answers": ["Trainer", "Demon", "Scout"],
       "correctAnswerIndex": 0
     }
   ]
